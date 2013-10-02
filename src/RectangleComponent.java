@@ -1,6 +1,7 @@
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
+// I don't like it
 
 import javax.swing.JComponent;
 
