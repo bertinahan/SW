@@ -1,6 +1,7 @@
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
+// First time using Vim!!!
 
 import javax.swing.JComponent;
 
